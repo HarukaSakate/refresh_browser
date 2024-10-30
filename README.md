@@ -1,4 +1,5 @@
-# refresh_browser
+# refresh_browser for Firefox
+
 The English version is the second half 
 
 
