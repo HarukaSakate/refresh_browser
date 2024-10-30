@@ -19,7 +19,7 @@ The English version is the second half
    python refresh_firefox.py
    ```
 
-4. **スクリプトの停止**
+4. **スクリプトの停止**  
 スクリプトを終了したい場合は、ターミナルで **Ctrl + C** を押すと、スクリプトが停止してブラウザが閉じられます。
 
 -----------
