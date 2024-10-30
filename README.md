@@ -17,7 +17,7 @@ The English version is the second half
 
 3. **スクリプトを実行**  
    ```bash
-   python refresh_firefox.py
+   python refresh_browser.py
    ```
 
 4. **スクリプトの停止**  
@@ -38,7 +38,7 @@ The English version is the second half
 
 4. **Run the Script**  
    ```bash
-   python refresh_firefox.py
+   python refresh_browser.py
    ```
 
 5. **Stop the Script**  
