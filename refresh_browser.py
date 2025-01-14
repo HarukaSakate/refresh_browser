@@ -10,7 +10,7 @@ driver.get(url)
 try:
     # 5分ごとにページをリロードするループ
     while True:
-        time.sleep(300)  
+        time.sleep(300) #ここでリロード間隔を設定 
         driver.refresh()  
         print("Page reloaded")
 except KeyboardInterrupt:
