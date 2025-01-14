@@ -1,7 +1,4 @@
-# refresh_browser for Firefox
-
-The English version is the second half 
-
+# How to execute refresh_browser.py for Firefox
 
 1. **Pythonのインストール**  
 このスクリプトを実行するためには、Pythonがインストールされている環境が必要です。Pythonがまだインストールされていない場合は、[公式サイト](https://www.python.org/downloads/)からインストールしてください。 
