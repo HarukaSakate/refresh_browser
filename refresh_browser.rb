@@ -2,7 +2,7 @@ require 'curb'
 
 loop do
   begin
-    response = Curl.get("https://example.com") #任意のURLを設定する
+    response = Curl.get("https://example.com") #ここに任意のURLを設定する
     if response.status.include?("200")
       puts "Page reloaded"
     else
